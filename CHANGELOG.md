@@ -1,9 +1,5 @@
-# Change Log
+## 0.0.3
 
-All notable changes to the "coffee-at-2-am" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+###### 2022-03-23
 
 - Initial release
