@@ -1,21 +1,25 @@
 {
-    "name": "coffee-at-2-am",
-    "displayName": "Coffee at 2 AM",
-    "description": "Peaceful coding",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.65.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Coffee at 2 AM",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Coffee at 2 AM-color-theme.json"
-            }
-        ]
-    }
+	"name": "coffee-at-2-am",
+	"author": "Auracle",
+	"publisher": "Auracle",
+	"icon": "img/icon.png",
+	"displayName": "Coffee at 2 AM",
+	"description": "Peaceful coding",
+	"repository": "https://github.com/AuracleTech/Coffee-at-2-AM",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.65.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Coffee at 2 AM",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Coffee at 2 AM-color-theme.json"
+			}
+		]
+	}
 }
