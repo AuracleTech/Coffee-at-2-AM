@@ -1,0 +1,21 @@
+{
+    "name": "coffee-at-2-am",
+    "displayName": "Coffee at 2 AM",
+    "description": "Peaceful coding",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coffee at 2 AM",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Coffee at 2 AM-color-theme.json"
+            }
+        ]
+    }
+}
