@@ -6,7 +6,7 @@
 	"displayName": "Coffee at 2 AM",
 	"description": "Peaceful coding",
 	"repository": "https://github.com/AuracleTech/Coffee-at-2-AM",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"engines": {
 		"vscode": "^1.65.0"
 	},
