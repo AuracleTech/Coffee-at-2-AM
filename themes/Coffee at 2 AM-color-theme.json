@@ -419,7 +419,7 @@
 			"name": "Integers",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#42ff77"
+				"foreground": "#42ff76"
 			}
 		},
 		{
