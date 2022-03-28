@@ -1,5 +1,7 @@
 ## Coffee at 2 AM
 
+![coffee flavouring](./img/preview.png)
+
 _Nothing to be said, nothing to do._<br>
 _From where to start? Some code would do._
 
