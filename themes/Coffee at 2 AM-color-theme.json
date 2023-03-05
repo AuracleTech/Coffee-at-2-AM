@@ -46,11 +46,21 @@
 		"editorOverviewRuler.border": "#0000",
 		"editorOverviewRuler.background": "#0000",
 		// EDITOR DIFF
+		"diffEditor.border": "#1E1D2E",
+		"diffEditor.insertedTextBorder": "#0000",
+		"diffEditorGutter.insertedLineBackground": "#33995a44",
+		"diffEditorOverview.insertedForeground": "#33995a44",
+		"diffEditor.insertedTextBackground": "#33995a44",
+		"diffEditor.insertedLineBackground": "#33995a11",
+		"diffEditor.removedTextBorder": "#0000",
+		"diffEditor.diagonalFill": "#99334e44",
+		"diffEditorGutter.removedLineBackground": "#99334e44",
+		"diffEditorOverview.removedForeground": "#99334e44",
+		"diffEditor.removedTextBackground": "#99334e44",
+		"diffEditor.removedLineBackground": "#99334e11",
 		"editorGutter.addedBackground": "#33995a",
 		"editorGutter.modifiedBackground": "#997c33",
 		"editorGutter.deletedBackground": "#99334e",
-		"diffEditorGutter.removedLineBackground": "#8e304933", // CHANGE
-		"diffEditor.insertedTextBackground": "#66f0c213", // CHANGE
 
 		// CONSOLE PANEL
 		"panel.background": "#1E1D2E",
@@ -119,9 +129,9 @@
 
 		"editorBracketHighlight.foreground1": "#f0be5b",
 		"editorBracketHighlight.foreground2": "#c172d9",
-		"editorBracketHighlight.foreground3": "#ef935d",
-		"editorBracketHighlight.foreground4": "#e06ba2",
-		"editorBracketHighlight.foreground5": "#70ca8e",
+		"editorBracketHighlight.foreground3": "#F0B176",
+		"editorBracketHighlight.foreground4": "#F077B6",
+		"editorBracketHighlight.foreground5": "#76F0B1",
 		"editorBracketHighlight.foreground6": "#7064f3",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#ef5d5d"
 	},
@@ -150,7 +160,7 @@
 		{
 			"scope": "entity.name.namespace.rust",
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#90A1C8"
 			}
 		},
 		{
