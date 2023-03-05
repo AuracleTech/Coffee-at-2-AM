@@ -3,6 +3,7 @@
 	"author": "Auracle",
 	"publisher": "Auracle",
 	"icon": "img/icon.png",
+	"license": "MIT",
 	"displayName": "Coffee at 2 AM",
 	"description": "Peaceful coding",
 	"repository": "https://github.com/AuracleTech/Coffee-at-2-AM",
