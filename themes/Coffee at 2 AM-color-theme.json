@@ -22,6 +22,8 @@
 		"statusBar.debuggingBackground": "#75b5f0",
 		"statusBarItem.activeBackground": "#75b5f033",
 		"statusBarItem.hoverBackground": "#75b5f033",
+		"statusBarItem.prominentBackground": "#75b5f033",
+		"statusBarItem.prominentHoverBackground": "#75b5f033",
 		"input.foreground": "#75b5f0",
 		"selection.background": "#75b5f044",
 
@@ -89,11 +91,9 @@
 		"statusBar.noFolderBorder": "#0000",
 		"statusBar.noFolderForeground": "#8295a6",
 		"statusBar.noFolderBackground": "#0000",
-		"statusBarItem.compactHoverBackground": "#000000", // CHANGE
+		"statusBarItem.compactHoverBackground": "#0000",
 		"statusBarItem.focusBorder": "#0000",
-		"statusBarItem.prominentBackground": "#000000",
-		"statusBarItem.prominentForeground": "#000000",
-		"statusBarItem.prominentHoverBackground": "#000000",
+		"statusBarItem.prominentForeground": "#8295a6",
 		"statusBarItem.remoteForeground": "#8295a6",
 		"statusBarItem.remoteBackground": "#0000",
 		"statusBarItem.errorForeground": "#8295a6",
