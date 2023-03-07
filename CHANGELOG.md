@@ -1,3 +1,17 @@
+###### 2022-3-7
+
+- Improved colors for errors, warnings, info, and hints
+- Improved match highlight colors
+- Improved overview ruler colors
+- Improved contrast of main focus color
+- Improved contrast of status bar debugging
+- Improved editor whitespace colors
+- Improved badge foreground
+- Improved terminal cursor
+- Improved buttons colors
+- Reduced intensity of the diff editor line changes
+- Changed status bar foreground to dark mode
+
 ###### 2022-3-5
 
 - Improved interaction with the editor by selecting a uniform color for the cursor, text selection,

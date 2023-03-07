@@ -5,7 +5,7 @@
 	"icon": "img/icon.png",
 	"license": "MIT",
 	"displayName": "Coffee at 2 AM",
-	"description": "Peaceful coding",
+	"description": "Peaceful coding theme",
 	"repository": "https://github.com/AuracleTech/Coffee-at-2-AM",
 	"version": "0.5.1",
 	"engines": {
